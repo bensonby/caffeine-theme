@@ -48,6 +48,7 @@ src = {
             "node_modules/ghosthunter/dist/jquery.ghosthunter.js",
             "node_modules/fitvids/fitvids.min.js",
             "node_modules/prismjs/prism.js",
+            "node_modules/prismjs/components/prism-visual-basic.min.js",
             "node_modules/toastr/build/toastr.min.js",
             "node_modules/store/dist/store.modern.min.js"
         ]
